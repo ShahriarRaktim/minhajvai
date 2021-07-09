@@ -1,0 +1,45 @@
+body{
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+}
+header{
+    display: flex;
+    margin-top: 70px;
+    position: fixed;
+}
+header img{
+    margin-right: 600px;
+    margin-left: 200px;
+}
+header a{
+    margin-right: 150px;
+    text-decoration: none;
+    color: black;
+}
+#first-img{
+    margin-left: 5%;
+    margin-top: 200px;
+    width: 90%;
+}
+#first-article{
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.second-section{
+    display: flex;
+    margin: 10%;
+}
+.third-article{
+    margin-left: 5%;
+}
+#input-mail{
+    text-align: center;
+    background-color: lightgrey;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+#inline{
+    display: flex;
+    text-align: center;
+}
