@@ -40,6 +40,31 @@ header a{
     padding-bottom: 80px;
 }
 #inline{
-    display: flex;
+   text-align: center;
+}
+#send-icon{
+    margin-left: 55px;
+}
+h2{
     text-align: center;
+    margin: 0 46% 5% 46%;
+    padding: 15px 5px;
+    border: 1px solid black;
+}
+h2 a{
+    text-decoration: none;
+    color: black;
+}
+footer{
+    background-color: lightgrey;
+    display: flex;
+   /* margin: 5% 0 3% 5%; */
+   padding: 5% 0 3% 5%;
+}
+#end{
+   position: relative;
+   left: 75%;
+}
+.end-padding{
+    padding-right: 20px;
 }
